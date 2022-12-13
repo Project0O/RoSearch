@@ -1,5 +1,5 @@
 
-token = "BOT_TOEN"
+token = "BOT_Token"
 bloxlink_token = "API"
 
 import discord, requests, json, datetime, time
